@@ -7,6 +7,10 @@ Introduction to Julia course for the CM Hub at Imperial College
 * **Part 2:** Packages, Plotting, Types, Multiple Dispatch
 * **Part 3:** Benchmarking Julia, Linear Algebra, AutoDifferentiation
 
+## Tutors : 
+* Yiannis Simillides
+* Tony Yang
+
 ## The Graduate School logo
 <img src="/readme-images/grad-school-logo.png">
 
