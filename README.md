@@ -20,6 +20,7 @@ Introduction to Julia course for the CM Hub at Imperial College
 * as well as advanced concepts, such as Multiple Dispatch and custom data types.
 
 ## Prerequisites
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ysimillides/Introduction-to-Julia/HEAD)
 * No programming experience is required
 * Binder runtime will be provided
 * Feel free to install https://julialang.org/downloads/ 
