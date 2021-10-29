@@ -1,5 +1,5 @@
-# CM Hub: Introduction to Julia
-Introduction to Julia course for the CM Hub at Imperial College
+# Introduction to Julia
+Introduction to Julia course at Imperial College
 
 3 × 2 hour classes
 
@@ -9,14 +9,13 @@ Introduction to Julia course for the CM Hub at Imperial College
 
 ## Tutors : 
 * Yiannis Simillides
-* Tony Yang
-
-## The Graduate School logo
-<img src="/readme-images/grad-school-logo.png">
+* Evripides Georgiades
 
 ## On completion of this workshop you will be able to:
-* use Julia to run scripts,
-* apply fundamental components of the Julia language including variables, loops, conditionals and functions,
+* **Use** Jupyter Notebooks to execute Julia scripts and install packages.
+* **Apply** fundamental components of the Julia language including variables, loops, conditionals and functions. 
+* **Create** programs designed to solve simple problems.
+* **Interpret** common errors and use these to help debug a program.
 * as well as advanced concepts, such as Multiple Dispatch and custom data types.
 
 ## Prerequisites
@@ -31,4 +30,4 @@ Introduction to Julia course for the CM Hub at Imperial College
 * https://discourse.julialang.org/c/usage/first-steps/8
 
 ## Feedback
-This is the first time this course is running, so please feel free to let me know if anything needs changing / any feedback/ difficulties or anything you particularly enjoyed!
+This is the second time this course is running, so please feel free to let me know if anything needs changing / any feedback/ difficulties or anything you particularly enjoyed!
